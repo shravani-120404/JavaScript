@@ -1,1 +1,1 @@
-'My name is: Shravani '
+'My name is: '
